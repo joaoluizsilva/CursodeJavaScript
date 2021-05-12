@@ -1,0 +1,1 @@
+console.log("Curso de JavaScript por João Luiz");

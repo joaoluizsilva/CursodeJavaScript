@@ -1,0 +1,7 @@
+@import url(mobile.css);
+
+.contetudo{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(107, 107, 173);
+}

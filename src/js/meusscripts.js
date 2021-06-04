@@ -8,8 +8,8 @@ var nome = window.prompt("Qual seu nome???");
 console.log(nome);
 window.alert("Seja vem vindo, " + nome + "!");
 
-var numero1 = Number.parseInt(window.prompt("Informe o valor 1!"));
-var numero2 = Number.parseInt(window.prompt("Informe o valor 2"));
+var numero1 = Number.parseInt(prompt("Informe o valor 1!"));
+var numero2 = Number.parseInt(prompt("Informe o valor 2"));
 var res = numero1 + numero2;
 alert("O valor é de : "+ res);
 
